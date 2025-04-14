@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Zhang Youpeng"
+title                    : "Youpeng"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "Zhangyppy/Zhang-Youpeng"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Zhangyppy/Zhang-Youpeng/profile.png"
+  avatar           : "profile.png"
   name             : "Zhang Youpeng"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
